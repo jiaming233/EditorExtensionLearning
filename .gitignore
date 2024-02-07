@@ -1,0 +1,10 @@
+EditorExtensionsProject/Library
+EditorExtensionsProject/Logs
+EditorExtensionsProject/obj
+EditorExtensionsProject/Temp
+EditorExtensionsProject/.vsconfig
+EditorExtensionsProject/Assembly-CSharp.csproj
+EditorExtensionsProject/Assembly-CSharp-Editor.csproj
+EditorExtensionsProject/.vs
+EditorExtensionsProject/*.sln
+EditorExtensionsProject/*.csproj
